@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TelChance/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TelChance/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/TelChance/Employee-Tracker#readme",
+  "dependencies": {
+    "console-table": "^0.1.2"
+  }
+}
