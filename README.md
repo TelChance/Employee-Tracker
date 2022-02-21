@@ -5,6 +5,7 @@ This project allows a business owner to be able to view and manage the departmen
 
 # Example
 https://user-images.githubusercontent.com/92404288/154888387-08622ec5-4a68-4a28-a39c-64f640498757.mp4
+I will make a longer video when I have ironed out some problems!
 
 
 
