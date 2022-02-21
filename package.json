@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/TelChance/Employee-Tracker#readme",
   "dependencies": {
-    "console-table": "^0.1.2"
+    "console-table": "^0.1.2",
+    "mysql": "^2.18.1"
   }
 }
